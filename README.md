@@ -14,4 +14,3 @@ Then based on the question type, if it’s ‘A’(means IPV4) we have to fetch 
 Then set the nameserver count and additional count as 0. 
 Then as the final step we need to create the DNS body(Query and Answer) and combining the header, Query and the Answer we get the DNS response, 
 which needs to be sent back to the client.
-a
